@@ -3,7 +3,7 @@
 
 #pragma once
 
-namespace project {}
+namespace project {
 
 class executor
 {

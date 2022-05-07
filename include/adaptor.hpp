@@ -10,7 +10,7 @@ class adaptor
 public:
     adaptor();
     ~adaptor();
-    void print_msg();
+     void print_msg();
 
 private:
 

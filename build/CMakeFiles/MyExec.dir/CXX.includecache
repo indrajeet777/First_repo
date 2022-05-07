@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/executor.hpp
+
+/home/indrajeet/Documents/c++/class/First_repo/src/executor.cpp
+executor.hpp
+/home/indrajeet/Documents/c++/class/First_repo/src/executor.hpp
+

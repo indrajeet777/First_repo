@@ -4,8 +4,9 @@
 
 int main()
 {
-  //  unique_ptr<int> p = make_unique<int>(42);
-    //std::unique_ptr<adaptor>ptr=std::make_unique<adaptor>();
-    adaptor::print_msg();
+   // std::unique_ptr<int> p = std::make_unique<int>(42);
+    std::unique_ptr<adaptor>ptr=std::make_unique<adaptor>();
+    ptr->print_msg();
+   // adaptor::print_msg();
     
 }

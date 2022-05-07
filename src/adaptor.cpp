@@ -11,7 +11,7 @@ adaptor::~adaptor()
 
 }
 
-static void adaptor::print_msg()
+void adaptor::print_msg()
 {
     std::cout<<"Printing the message"<<"\n";
 }

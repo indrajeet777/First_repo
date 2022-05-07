@@ -1,11 +1,11 @@
 #include "executor.hpp"
 
-executor::executor()
+project::executor::executor()
 {
 
 }
 
-executor::~executor()
+project::executor::~executor()
 {
 
 }
