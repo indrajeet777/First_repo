@@ -6,9 +6,31 @@
 
 #IncludeRegexTransform: 
 
+../include/adaptor.hpp
+iostream
+-
+executor.hpp
 ../include/executor.hpp
 
-/home/indrajeet/Documents/c++/class/First_repo/src/executor.cpp
+../include/executor.hpp
+
+/home/indrajeet/Documents/c++/class/First_repo/include/adaptor.hpp
+iostream
+-
 executor.hpp
-/home/indrajeet/Documents/c++/class/First_repo/src/executor.hpp
+/home/indrajeet/Documents/c++/class/First_repo/include/executor.hpp
+
+/home/indrajeet/Documents/c++/class/First_repo/include/executor.hpp
+
+/home/indrajeet/Documents/c++/class/First_repo/main.cpp
+iostream
+-
+memory
+-
+include/adaptor.hpp
+/home/indrajeet/Documents/c++/class/First_repo/include/adaptor.hpp
+
+/home/indrajeet/Documents/c++/class/First_repo/src/adaptor.cpp
+adaptor.hpp
+/home/indrajeet/Documents/c++/class/First_repo/src/adaptor.hpp
 

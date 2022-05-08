@@ -4,13 +4,14 @@
 #pragma once
 
 #include <iostream>
+#include "executor.hpp"
 
-class adaptor
+class adaptor : private project::executor
 {
 public:
     adaptor();
     ~adaptor();
-     void print_msg();
+     project::executor * print_msg();
 
 private:
 

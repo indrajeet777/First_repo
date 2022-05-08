@@ -3,9 +3,11 @@
 
 CMakeFiles/MyExec.dir/main.cpp.o
  /home/indrajeet/Documents/c++/class/First_repo/include/adaptor.hpp
+ /home/indrajeet/Documents/c++/class/First_repo/include/executor.hpp
  /home/indrajeet/Documents/c++/class/First_repo/main.cpp
 CMakeFiles/MyExec.dir/src/adaptor.cpp.o
  ../include/adaptor.hpp
+ ../include/executor.hpp
  /home/indrajeet/Documents/c++/class/First_repo/src/adaptor.cpp
 CMakeFiles/MyExec.dir/src/executor.cpp.o
  ../include/executor.hpp

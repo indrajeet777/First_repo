@@ -11,7 +11,9 @@ adaptor::~adaptor()
 
 }
 
-void adaptor::print_msg()
+project::executor * adaptor::print_msg()
 {
     std::cout<<"Printing the message"<<"\n";
+    project::executor *ptr_adp = new project::executor();
+    return ptr_adp;
 }
